@@ -35,6 +35,6 @@ The login page is prompted, once logged the homepage view is activated with the 
 
 
 REPOSITORIES:
-https://github.com/Danielpnz92/FinalProject-back
-https://github.com/Danielpnz92/FinalProject-back-micro
-https://github.com/Danielpnz92/FinalProject-front
+- https://github.com/Danielpnz92/FinalProject-back
+- https://github.com/Danielpnz92/FinalProject-back-micro
+- https://github.com/Danielpnz92/FinalProject-front
