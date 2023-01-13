@@ -1,6 +1,7 @@
 # FinalProject
 
 This web app consists of an application to order food plates out of different restaurants in your area. 
+![UML](https://user-images.githubusercontent.com/108270930/212302286-8a4c0a5f-a7e6-438c-a5fc-f9ff53b20ff4.png)
 
 Backend-Entities
 --------------
